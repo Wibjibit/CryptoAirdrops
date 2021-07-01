@@ -1,1 +1,23 @@
 # CryptoAirdrops
+
+Add the following as Custom tokems in TrustWallet\MetaMask or other compatible wallet to gain free tokens
+
+The Name, Symbol and Decimal Fields should auto fill once you add the Contract Address
+
+Ethereum (ERC20) Token Contract Address
+
+1. 360 Dapp 0x5d0fa08aeb173ade44b0cf7f31d506d8e04f0ac8
+2. Cheguevara (CHE) - 0x25a1de1c3ee658fe034b8914a1d8d34110423af8
+3. Yunjaimi (YJM) - 0x27BC53596Dc0EA71dE3c65C799d8E6c96C1dDA98
+4. Pro: 0x8377ee6d3545bc6ff1425ee3015dc648b149c7b2
+5. PNS 0xce853db3359326db6d03981c9fb42983bbcdd007
+6. SDZ 0x01995786f1435743c42b7f2276c496a610b58612
+7. BOY 0x1a1b161962a7efe85be39a24f18ad7d4a504e10c
+8. CSAT 0x3565402f2936d3284264f03615d065803330e392
+9. IGNISLITE 0x9AA9F330aB322e8a6F044C46a109B5910fa373CE
+10. KFC 0xb810ad9007e4f2d9aab2e7181a0385d02437ea6e
+11. SPS 0x0f801928106c4c4272275e130be1473dbd8b492c
+12. MANITOS 0x77d0112d005d21c1740a323f513bb088916b9a14
+13. CEHH 0x4f38f4229924bfa28d58eeda496cc85e8016bccc
+14. SNS 0x0189d31f6629c359007f72b8d5ec8fa1c126f95c
+15. AVI 0xf1189c68f5697514b1028e2fae5efeb093e91079
